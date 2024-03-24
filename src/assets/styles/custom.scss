@@ -1,0 +1,12 @@
+$theme-colors: (
+    "primary": #407bff,
+    "warning": #FFC700,
+    "danger": #ff4136,
+    "dark": #212529,
+    "secondary": #9E9E9E,
+);
+
+$body-bg: #525252;
+$body-color: #263238;
+
+@import '~bootstrap/scss/bootstrap.scss';
